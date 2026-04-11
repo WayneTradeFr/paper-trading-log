@@ -1,0 +1,2 @@
+date,ticker,direction,entry,stop,size_usd,risk_usd,result_usd,rule_broken,notes
+2026-04-12,EXAMPLE,LONG,50000,49000,2000,1000,,NO,Example trade with 1% risk
