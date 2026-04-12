@@ -1,4 +1,4 @@
 date,ticker,direction,entry,stop,size_usd,margin_pct_of_capital,risk_usd,risk_pct,result_usd,rule_broken,balance_bef,balance_aft,leverage,notes
-2026-04-12,EXAMPLE,LONG,50000,49000,2000,,1000,,,,NO,100000,100000,1:1,Example trade with 1% risk
+2026-04-12,EXAMPLE,LONG,50000,49000,2000,,1000,1%,NO,100000,100000,1:1,Example trade with 1% risk
 2026-04-11,BTCUSD,LONG,72 732,72 442,250000,2%,1000,,1350.81,NO,100 000,101 350.81,125:1,As they say the trend is your friend so I took a long position using the Fibonacci retracement. I'm in a range. My risk-reward ratio is 1.31.
 2026-04-12,BTCUSD,LONG,71 633,71 346,253 377.05,2%,1015.15,,NO,101 350.82,,125:1,The RSI is 35.77. My take-profit target is 2% of my capital.
