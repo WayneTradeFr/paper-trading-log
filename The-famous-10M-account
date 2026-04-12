@@ -1,23 +1,25 @@
-Heure,Balance avant,Balance après,Pertes et profits réalisés (valeur),Pertes et profits réalisés (devise),Action
-2026-04-10 06:04:57,19872278.656768505,20215758.6567685,343479.9999999963,USD,"Close long position for symbol CBOT_MINI:YM1! at price 48376 for 196 units. Position AVG Price was 48025.510204, currency: USD, rate: 1.000000, point value: 5.000000"
-2026-04-10 01:16:26,10690082.722468505,19872278.656768505,9182195.9343,USD,"Close short position for symbol BITSTAMP:BTCUSD at price 71640 for 14369.6337 units. Position AVG Price was 72279.000000, currency: USD, rate: 1.000000, point value: 1.000000"
-2026-04-09 18:12:50,13933887.434968505,10690082.722468505,-3243804.7125000004,USD,"Close short position for symbol BITSTAMP:BTCUSD at price 72295 for 19659.4225 units. Position AVG Price was 72130.000000, currency: USD, rate: 1.000000, point value: 1.000000"
-2026-04-09 18:07:28,14141553.784968505,13933887.434968505,-207666.34999999963,USD,"Close short position for symbol BITSTAMP:BTCUSD at price 72223 for 20766.635 units. Position AVG Price was 72213.000000, currency: USD, rate: 1.000000, point value: 1.000000"
-2026-04-09 18:06:04,14004724.740168504,14141553.784968505,136829.04480000027,USD,"Close short position for symbol BITSTAMP:BTCUSD at price 72237 for 1628.9172 units. Position AVG Price was 72321.000000, currency: USD, rate: 1.000000, point value: 1.000000"
-2026-04-09 17:54:48,15647464.740168497,14004724.740168504,-1642739.9999999925,USD,"Close long position for symbol NYMEX:CL1! at price 99.19 for 2489 units. Position AVG Price was 99.850000, currency: USD, rate: 1.000000, point value: 1000.000000"
-2026-04-09 17:42:37,15720439.740168497,15647464.740168497,-72975,USD,"Close short position for symbol CME_MINI:ES1! at price 6840.50 for 834 units. Position AVG Price was 6838.750000, currency: USD, rate: 1.000000, point value: 50.000000"
-2026-04-09 17:38:18,14378749.740168512,15720439.740168497,1341689.999999985,USD,"Close long position for symbol NYMEX:CL1! at price 100.47 for 2551 units. Position AVG Price was 99.944053, currency: USD, rate: 1.000000, point value: 1000.000000"
-2026-04-09 17:28:26,14375749.740168512,14378749.740168512,3000,USD,"Close long position for symbol NYMEX:CL1! at price 101.53 for 60 units. Position AVG Price was 101.480000, currency: USD, rate: 1.000000, point value: 1000.000000"
-2026-04-09 14:47:22,14525149.740168512,14375749.740168512,-149400,USD,"Close short position for symbol NYMEX:CL1! at price 99.98 for 60 units. Position AVG Price was 97.490000, currency: USD, rate: 1.000000, point value: 1000.000000"
-2026-04-09 06:21:39,14526349.740168512,14525149.740168512,-1200,USD,"Close long position for symbol NYMEX:CL1! at price 97.49 for 60 units. Position AVG Price was 97.510000, currency: USD, rate: 1.000000, point value: 1000.000000"
-2026-04-09 06:03:41,14739749.740168512,14526349.740168512,-213400,USD,"Close long position for symbol CME_MINI:ES1! at price 6809.50 for 176 units. Position AVG Price was 6833.750000, currency: USD, rate: 1.000000, point value: 50.000000"
-2026-04-08 21:28:41,15036209.740168512,14739749.740168512,-296460,USD,"Close short position for symbol NYMEX:CL1! at price 96.87 for 162 units. Position AVG Price was 95.040000, currency: USD, rate: 1.000000, point value: 1000.000000"
-2026-04-08 13:24:12,15097527.307122767,15036209.740168512,-61317.566954255104,USD,"Close long position for symbol BINANCE:BTCUSDT at price 71579.14 for 219.0032 units. Position AVG Price was 71859.150000, currency: USDT, rate: 0.999910, point value: 1.000000"
-2026-04-08 11:10:48,15139756.505604597,15097527.307122767,-42229.19848182984,USD,"Close short position for symbol BINANCE:BTCUSDT at price 71859.15 for 219.0032 units. Position AVG Price was 71666.310000, currency: USDT, rate: 0.999920, point value: 1.000000"
-2026-04-08 11:02:52,15157956.505604597,15139756.505604597,-18200,USD,"Close long position for symbol CME_MINI:ES1! at price 6833.25 for 364 units. Position AVG Price was 6834.250000, currency: USD, rate: 1.000000, point value: 50.000000"
-2026-04-08 11:02:43,15205771.505604597,15157956.505604597,-47815,USD,"Close short position for symbol CBOT_MINI:YM1! at price 47930 for 131 units. Position AVG Price was 47857.000000, currency: USD, rate: 1.000000, point value: 5.000000"
-2026-04-08 11:02:35,15435546.505604597,15205771.505604597,-229775,USD,"Close short position for symbol CME_MINI:ES1! at price 6834.25 for 364 units. Position AVG Price was 6821.625000, currency: USD, rate: 1.000000, point value: 50.000000"
-2026-04-08 10:57:11,15576486.505604595,15435546.505604597,-140939.99999999814,USD,"Close long position for symbol NYMEX:CL1! at price 95.04 for 162 units. Position AVG Price was 95.910000, currency: USD, rate: 1.000000, point value: 1000.000000"
-2026-04-08 07:07:39,15596791.505604595,15576486.505604595,-20305,USD,"Close long position for symbol CBOT_MINI:YM1! at price 47857 for 131 units. Position AVG Price was 47888.000000, currency: USD, rate: 1.000000, point value: 5.000000"
-2026-04-08 06:38:02,15598141.505604595,15596791.505604595,-1350,USD,"Close long position for symbol CME_MINI:NQ1! at price 25150.00 for 30 units. Position AVG Price was 25152.250000, currency: USD, rate: 1.000000, point value: 20.000000"
-2026-04-08 06:35:10,15597816.505604595,15598141.505604595,325,USD,"Close long position for symbol CBOT_MINI:YM1! at price 47889 for 65 units. Position AVG Price was 47888.000000, currency: USD
+| Heure               | Balance avant      | Balance après      | P&L réalisé (valeur) | Devise | Action |
+|---------------------|-------------------|-------------------|----------------------|--------|--------|
+| 2026-04-10 06:04:57 | 19872278.656768505 | 20215758.6567685  | 343479.9999999963    | USD    | Close long CBOT_MINI:YM1! @48376 (196) |
+| 2026-04-10 01:16:26 | 10690082.722468505 | 19872278.656768505 | 9182195.9343         | USD    | Close short BTCUSD @71640 |
+| 2026-04-09 18:12:50 | 13933887.434968505 | 10690082.722468505 | -3243804.7125        | USD    | Close short BTCUSD @72295 |
+| 2026-04-09 18:07:28 | 14141553.784968505 | 13933887.434968505 | -207666.35           | USD    | Close short BTCUSD @72223 |
+| 2026-04-09 18:06:04 | 14004724.740168504 | 14141553.784968505 | 136829.0448          | USD    | Close short BTCUSD @72237 |
+| 2026-04-09 17:54:48 | 15647464.740168497 | 14004724.740168504 | -1642740             | USD    | Close long CL1! @99.19 |
+| 2026-04-09 17:42:37 | 15720439.740168497 | 15647464.740168497 | -72975               | USD    | Close short ES1! @6840.50 |
+| 2026-04-09 17:38:18 | 14378749.740168512 | 15720439.740168497 | 1341690              | USD    | Close long CL1! @100.47 |
+| 2026-04-09 17:28:26 | 14375749.740168512 | 14378749.740168512 | 3000                 | USD    | Close long CL1! @101.53 |
+| 2026-04-09 14:47:22 | 14525149.740168512 | 14375749.740168512 | -149400              | USD    | Close short CL1! @99.98 |
+| 2026-04-09 06:21:39 | 14526349.740168512 | 14525149.740168512 | -1200                | USD    | Close long CL1! @97.49 |
+| 2026-04-09 06:03:41 | 14739749.740168512 | 14526349.740168512 | -213400              | USD    | Close long ES1! @6809.50 |
+| 2026-04-08 21:28:41 | 15036209.740168512 | 14739749.740168512 | -296460              | USD    | Close short CL1! @96.87 |
+| 2026-04-08 13:24:12 | 15097527.307122767 | 15036209.740168512 | -61317.57            | USD    | Close long BTCUSDT @71579 |
+| 2026-04-08 11:10:48 | 15139756.505604597 | 15097527.307122767 | -42229.20            | USD    | Close short BTCUSDT @71859 |
+| 2026-04-08 11:02:52 | 15157956.505604597 | 15139756.505604597 | -18200               | USD    | Close long ES1! @6833.25 |
+| 2026-04-08 11:02:43 | 15205771.505604597 | 15157956.505604597 | -47815               | USD    | Close short YM1! @47930 |
+| 2026-04-08 11:02:35 | 15435546.505604597 | 15205771.505604597 | -229775              | USD    | Close short ES1! @6834.25 |
+| 2026-04-08 10:57:11 | 15576486.505604595 | 15435546.505604597 | -140940              | USD    | Close long CL1! @95.04 |
+| 2026-04-08 07:07:39 | 15596791.505604595 | 15576486.505604595 | -20305               | USD    | Close long YM1! @47857 |
+| 2026-04-08 06:38:02 | 15598141.505604595 | 15596791.505604595 | -1350                | USD    | Close long NQ1! @25150 |
+| 2026-04-08 06:35:10 | 15597816.505604595 | 15598141.505604595 | 325                  | USD    | Close long YM1! @47889 |
+| 2026-04-08 06:34:39 | 15597166.505604595 | 15597816.505604595 | 650                  | USD    | Close long YM1! @47890 |
