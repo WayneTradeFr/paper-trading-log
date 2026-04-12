@@ -23,3 +23,37 @@
 | 2026-04-08 06:38:02 | 15598141.505604595 | 15596791.505604595 | -1350                | USD    | Close long NQ1! @25150 |
 | 2026-04-08 06:35:10 | 15597816.505604595 | 15598141.505604595 | 325                  | USD    | Close long YM1! @47889 |
 | 2026-04-08 06:34:39 | 15597166.505604595 | 15597816.505604595 | 650                  | USD    | Close long YM1! @47890 |
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Charger ton CSV
+df = pd.read_csv("trades.csv")
+
+# Convertir date
+df["Heure"] = pd.to_datetime(df["Heure"])
+
+# Trier par date
+df = df.sort_values("Heure")
+
+# Utiliser balance après comme equity
+equity = df["Balance après"]
+
+# Plot
+plt.figure(figsize=(12,6))
+plt.plot(df["Heure"], equity, linewidth=2)
+
+plt.title("Equity Curve")
+plt.xlabel("Date")
+plt.ylabel("Balance ($)")
+plt.grid()
+
+plt.show()
+df["peak"] = equity.cummax()
+df["drawdown"] = (equity - df["peak"]) / df["peak"]
+
+print("Max Drawdown:", df["drawdown"].min())
+wins = df[df["Pertes et profits réalisés (valeur)"] > 0]
+losses = df[df["Pertes et profits réalisés (valeur)"] < 0]
+
+winrate = len(wins) / (len(wins) + len(losses))
+print("Winrate:", winrate)
