@@ -1,4 +1,4 @@
 date,ticker,direction,entry,stop,size_usd,margin_pct_of_capital,risk_usd,risk_pct,result_usd,rule_broken,balance_bef,balance_aft,leverage,notes
-2026-04-12,EXAMPLE,LONG,50000,49000,2000,,1000,1%,,NO,100000,100000,1:1,"Example trade with 1% risk"
+2026-04-12,EXAMPLE,LONG,50000,49000,2000,2%,1000,1%,,NO,100000,100000,1:1,"Example trade with 1% risk"
 2026-04-11,BTCUSD,LONG,72732,72442,250000,2%,1000,1%,1350.81,NO,100000,101350.81,125:1,"Trend trade using Fibonacci retracement. RR 1.31"
 2026-04-12,BTCUSD,LONG,71633,71346,253377.05,2%,1015.15,,,NO,101350.82,,125:1,"RSI 35.77, TP = 2% capital"
