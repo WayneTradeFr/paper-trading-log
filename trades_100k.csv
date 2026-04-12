@@ -1,3 +1,3 @@
 date,ticker,direction,entry,stop,size_usd,margin_pct_of_capital,risk_usd,risk_pct,result_usd,rule_broken,balance_bef,balance_aft,leverage,notes
 2026-04-11,BTCUSD,LONG,72732,72442,250000,2%,1000,1%,+1350.81,NO,100000,101350.81,125:1,"As they say the trend is your friend so I took a long position using the Fibonacci retracement. I'm in a range. My risk-reward ratio is 1.31."
-2026-04-12,BTCUSD,LONG,71633,71346,253377.05,2%,1015.15,1%,,NO,101350.82,,125:1,"The RSI is 35.77. My take-profit target is 2% of my capital."
+2026-04-12,BTCUSD,LONG,71633,71346,253377.05,2%,1015.15,1%,−1421.91,NO,101350.82,,125:1,"The RSI is 35.77. My take-profit target is 2% of my capital."
