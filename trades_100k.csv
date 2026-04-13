@@ -1,3 +1,3 @@
 date,ticker,direction,entry,stop,size_usd,margin_pct_of_capital,risk_usd,risk_pct,result_usd,rule_broken,balance_bef,balance_aft,leverage,notes
 2026-04-13,E-Mini_S&P500,SHORT,6816.50,6831.25,400000,2%,1000,1%,-1137.50,NO,100000,98855,200:1,The Ormhuz route is closed. oil prices have risen so the stock is falling.
-2026-04-13,E-Mini_S&P500,SHORT,6855.25,6876.50,400000,2%,1000,1%,-1137.50,NO,100000,98855,200:1,The Ormhuz route is closed. oil prices have risen so the stock is falling
+
