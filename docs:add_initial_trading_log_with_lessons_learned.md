@@ -41,7 +41,9 @@ I knew the rule but I did not follow it.
 4. **I track mistakes:** Every time I break a rule, I write it here.
 
 **March 2026: Rules broken = 1.** Goal for April 2026 = 0.
-
+**June 2026: Rules broken = 0
+**July 2026: Rules broken =
+**August 2026: Rules broken =
 ## Why I show my mistakes
 
 Making +100% means nothing if you take crazy risk.
