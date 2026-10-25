@@ -3,7 +3,7 @@ Learning risk management through paper trading. 16yo aspiring quant trader.
 
 # My Trading Log
 
-I am 16. I learn trading on a paper account since June 2025.
+I am 18. I learn trading on a paper account since June 2025.
 Goal: understand risk before building trading programs later.
 
 ## What I did
